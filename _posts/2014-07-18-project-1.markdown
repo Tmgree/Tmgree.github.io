@@ -1,8 +1,11 @@
 ---
 layout: default
+title: Squawka Quote Graphics
 modal-id: 1
 date: 2014-07-18
 img: cabin.png
+img2: Messi-Stoke.jpg
+img3: MESSI-MONA-LISA.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
