@@ -1,8 +1,22 @@
 ---
 layout: default
+title: Squawka Stat Graphics
 modal-id: 2
 date: 2014-07-17
 img: cake.png
+img2: Messi-Stoke.jpg
+img3: Lahm-Neuer.jpg
+img4: DEMBELE-PASSES.jpg
+img5: koscielny-OTD.jpg
+img6: West-Ham-expensive.jpg
+img7: don-contract.jpg
+img8: Szczesny-farewell.jpg
+img9: SUAREZ-CL.jpg
+img10: morata-sky-sports.jpg
+img11: dzeko-god.jpg
+img12: matthijs-de.jpg
+img13: azpilicueta-gk.jpg
+img14: Mourinhoginger.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

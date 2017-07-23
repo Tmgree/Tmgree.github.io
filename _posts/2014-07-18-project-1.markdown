@@ -10,10 +10,13 @@ img4: MESSI-MONA-LISA.jpg
 img5: Pep-Fraudiola.jpg
 img6: kean-farm.png
 img7: don-contract.jpg
-img8: morata-sky-sports.jpg
-img9: dzeko-god.jpg
-img10: azpilicueta-gk.jpg
-img11: Mourinhoginger.jpg
+img8: Szczesny-farewell.jpg
+img9: SUAREZ-CL.jpg
+img10: morata-sky-sports.jpg
+img11: dzeko-god.jpg
+img12: matthijs-de.jpg
+img13: azpilicueta-gk.jpg
+img14: Mourinhoginger.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
