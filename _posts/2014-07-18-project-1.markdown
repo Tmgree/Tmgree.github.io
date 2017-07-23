@@ -8,9 +8,12 @@ img2: Messi-Stoke.jpg
 img3: Lahm-Neuer.jpg
 img4: MESSI-MONA-LISA.jpg
 img5: Pep-Fraudiola.jpg
-img6: dzeko-god.jpg
-img7: azpilicueta-gk.jpg
-img8: Mourinhoginger.jpg
+img6: kean-farm.png
+img7: don-contract.jpg
+img8: morata-sky-sports.jpg
+img9: dzeko-god.jpg
+img10: azpilicueta-gk.jpg
+img11: Mourinhoginger.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
