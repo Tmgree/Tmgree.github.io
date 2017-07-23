@@ -15,8 +15,9 @@ img9: SUAREZ-CL.jpg
 img10: morata-sky-sports.jpg
 img11: dzeko-god.jpg
 img12: matthijs-de.jpg
-img13: azpilicueta-gk.jpg
+img13: VidalKimmich.jpg
 img14: Mourinhoginger.jpg
+img15: azpilicueta-gk.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

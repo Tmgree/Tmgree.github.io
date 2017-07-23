@@ -4,19 +4,20 @@ title: Squawka Stat Graphics
 modal-id: 2
 date: 2014-07-17
 img: cake.png
-img2: Messi-Stoke.jpg
-img3: Lahm-Neuer.jpg
+img2: danialvescupfinals.jpg
+img3: BBCvBBC.jpg
 img4: DEMBELE-PASSES.jpg
 img5: koscielny-OTD.jpg
 img6: West-Ham-expensive.jpg
-img7: don-contract.jpg
-img8: Szczesny-farewell.jpg
-img9: SUAREZ-CL.jpg
-img10: morata-sky-sports.jpg
-img11: dzeko-god.jpg
-img12: matthijs-de.jpg
-img13: azpilicueta-gk.jpg
-img14: Mourinhoginger.jpg
+img7: lacazette-arsenal.jpg
+img8: moratalastgames.jpg
+img9: ronaldo-career.jpg
+img10: rooney-everton.jpg
+img11: scorein150games.jpg
+img12: ALDERWEIRELDPASSES.jpg
+img13: BALECL.jpg
+img14: uefasupercupposter.jpg
+img15: HERNANDEZMEXICO.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
