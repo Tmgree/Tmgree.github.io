@@ -11,7 +11,7 @@ img5: woodworkheros.jpg
 img6: arsenalmanager.jpg
 img7: LEICESTERLIVERPOOL.jpg
 img8: MANUTOP4.jpg
-img9: onepx.jpg
+img9: brightonnewcastle.jpg
 img10: morata-sky-sports.jpg
 img11: dzeko-god.jpg
 img12: matthijs-de.jpg
