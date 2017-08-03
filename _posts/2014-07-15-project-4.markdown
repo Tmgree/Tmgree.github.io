@@ -1,13 +1,14 @@
 ---
 layout: default
+title: SquawkaBet
 modal-id: 4
 date: 2014-07-15
 img: game.png
-img2: onepx.jpg
-img3: onepx.jpg
-img4: onepx.jpg
-img5: onepx.jpg
-img6: onepx.jpg
+img2: leaguecupfinal.jpg
+img3: laligawinners.jpg
+img4: WOODWORKHEROSwestham.jpg
+img5: woodworkheros.jpg
+img6: arsenalmanager.jpg
 img7: onepx.jpg
 img8: onepx.jpg
 img9: onepx.jpg
@@ -17,6 +18,7 @@ img12: matthijs-de.jpg
 img13: top4motms.jpg
 img14: hazardsanchez.jpg
 img15: azpilicueta-gk.jpg
+img16: azpilicueta-gk.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

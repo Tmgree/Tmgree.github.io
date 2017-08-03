@@ -10,14 +10,15 @@ img4: DEMBELE-PASSES.jpg
 img5: koscielny-OTD.jpg
 img6: West-Ham-expensive.jpg
 img7: lacazette-arsenal.jpg
-img8: moratalastgames.jpg
-img9: ronaldo-career.jpg
-img10: rooney-everton.jpg
-img11: scorein150games.jpg
-img12: snodgrassPL.jpg
-img13: BALECL.jpg
-img14: uefasupercupposter.jpg
-img15: HERNANDEZMEXICO.jpg
+img8: DavidSilvaMost.jpg
+img9: moratalastgames.jpg
+img10: ronaldo-career.jpg
+img11: rooney-everton.jpg
+img12: scorein150games.jpg
+img13: snodgrassPL.jpg
+img14: BALECL.jpg
+img15: uefasupercupposter.jpg
+img16: HERNANDEZMEXICO.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
