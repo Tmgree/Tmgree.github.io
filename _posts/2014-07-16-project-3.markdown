@@ -8,7 +8,7 @@ img2: HazardMatchBoss.jpg
 img3: AUB.jpg
 img4: POGBAMATCHBOSS.jpg
 img5: LUKAKUMATCHBOSS.jpg
-img6: kean-farm.png
+img6: xhaka_passes.jpg
 img7: don-contract.jpg
 img8: Szczesny-farewell.jpg
 img9: SUAREZ-CL.jpg
