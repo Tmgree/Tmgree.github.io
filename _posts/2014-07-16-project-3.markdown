@@ -5,10 +5,10 @@ modal-id: 3
 date: 2014-07-16
 img: circus.png
 img2: HazardMatchBoss.jpg
-img3: AUB.jpg
+img3: xhaka_passes.jpg
 img4: POGBAMATCHBOSS.jpg
 img5: LUKAKUMATCHBOSS.jpg
-img6: xhaka_passes.jpg
+img6: AUB.jpg
 img7: don-contract.jpg
 img8: Szczesny-farewell.jpg
 img9: SUAREZ-CL.jpg
