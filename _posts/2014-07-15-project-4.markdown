@@ -12,7 +12,7 @@ img6: arsenalmanager.jpg
 img7: LEICESTERLIVERPOOL.jpg
 img8: MANUTOP4.jpg
 img9: brightonnewcastle.jpg
-img10: morata-sky-sports.jpg
+img10: TopGoalScorerBet.jpg
 img11: dzeko-god.jpg
 img12: matthijs-de.jpg
 img13: top4motms.jpg
