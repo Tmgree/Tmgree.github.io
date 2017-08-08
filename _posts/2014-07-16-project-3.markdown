@@ -9,7 +9,7 @@ img3: xhaka_passes.jpg
 img4: POGBAMATCHBOSS.jpg
 img5: LUKAKUMATCHBOSS.jpg
 img6: AUB.jpg
-img7: don-contract.jpg
+img7: topmatchbossperformers.jpg
 img8: Szczesny-farewell.jpg
 img9: SUAREZ-CL.jpg
 img10: morata-sky-sports.jpg
