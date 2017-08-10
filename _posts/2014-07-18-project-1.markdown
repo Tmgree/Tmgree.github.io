@@ -19,6 +19,7 @@ img13: VidalKimmich.jpg
 img14: Mourinhoginger.jpg
 img15: azpilicueta-gk.jpg
 img16: RonaldoHeros.jpg
+img17: dembelebosz.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
