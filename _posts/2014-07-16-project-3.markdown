@@ -10,7 +10,7 @@ img4: POGBAMATCHBOSS.jpg
 img5: LUKAKUMATCHBOSS.jpg
 img6: AUB.jpg
 img7: topmatchbossperformers.jpg
-img8: Szczesny-farewell.jpg
+img8: mullerMATCHBOSS.jpg
 img9: SUAREZ-CL.jpg
 img10: morata-sky-sports.jpg
 img11: dzeko-god.jpg
@@ -20,7 +20,7 @@ img14: hazardsanchez.jpg
 img15: azpilicueta-gk.jpg
 alt: image-alt
 project-date: August 2016 - May 2017
-client: Start Bootstrap
+client: Squawka
 category: Advertising and Graphic Design
 description: I was solely placed in charge of creating the graphics and advertising campaign for Squawka's Fantasy Football style game - MatchBoss. The MatchBoss graphics are focused around MatchBoss points, which are the scoring system for the game and are earned through a player's contribution during a game.
 

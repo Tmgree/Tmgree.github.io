@@ -22,7 +22,7 @@ img16: hamsiknumbers.jpg
 img17: carvalhostats.jpg
 alt: image-alt
 project-date: January 2017 -
-client: Start Bootstrap
+client: Squawka
 category: Graphic Design
 description: Squawka's unique selling point is their football stats and one of the most important things was to create visualisations and graphics of these stats that both looked good and portrayed the statistic.
 
