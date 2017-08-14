@@ -8,7 +8,7 @@ img2: HazardMatchBoss.jpg
 img3: xhaka_passes.jpg
 img4: POGBAMATCHBOSS.jpg
 img5: LUKAKUMATCHBOSS.jpg
-img6: AUB.png
+img6: brazilMatchBoss.jpg
 img7: topmatchbossperformers.jpg
 img8: mullerMATCHBOSS.jpg
 img9: carvalhostats.jpg
