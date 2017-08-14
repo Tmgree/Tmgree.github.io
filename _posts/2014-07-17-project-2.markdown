@@ -19,7 +19,7 @@ img13: snodgrassPL.jpg
 img14: BALECL.jpg
 img15: uefasupercupposter.jpg
 img16: hamsiknumbers.jpg
-img17: carvalhostats.jpg
+img17: tottivsjuventus.jpg
 alt: image-alt
 project-date: January 2017 -
 client: Squawka
