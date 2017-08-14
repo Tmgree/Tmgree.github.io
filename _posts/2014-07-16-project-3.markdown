@@ -5,12 +5,12 @@ modal-id: 3
 date: 2014-07-16
 img: circus.png
 img2: HazardMatchBoss.jpg
-img3: AUB.jpg
+img3: xhaka_passes.jpg
 img4: POGBAMATCHBOSS.jpg
-img5: Pep-Fraudiola.jpg
-img6: kean-farm.png
-img7: don-contract.jpg
-img8: Szczesny-farewell.jpg
+img5: LUKAKUMATCHBOSS.jpg
+img6: AUB.png
+img7: topmatchbossperformers.jpg
+img8: mullerMATCHBOSS.jpg
 img9: SUAREZ-CL.jpg
 img10: morata-sky-sports.jpg
 img11: dzeko-god.jpg
@@ -18,10 +18,12 @@ img12: matthijs-de.jpg
 img13: top4motms.jpg
 img14: hazardsanchez.jpg
 img15: azpilicueta-gk.jpg
+img16: azpilicueta-gk.jpg
+img17: azpilicueta-gk.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: August 2016 - May 2017
+client: Squawka
+category: Advertising and Graphic Design
+description: I was solely placed in charge of creating the graphics and advertising campaign for Squawka's Fantasy Football style game - MatchBoss. The MatchBoss graphics are focused around MatchBoss points, which are the scoring system for the game and are earned through a player's contribution during a game.
 
 ---
