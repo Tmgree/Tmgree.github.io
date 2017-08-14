@@ -13,17 +13,16 @@ img7: lacazette-arsenal.jpg
 img8: DavidSilvaMost.jpg
 img9: moratalastgames.jpg
 img10: ronaldo-career.jpg
-img11: rooney-everton.jpg
-img12: arsenalwembley.jpg
+img11: Aubameyangallcomps.jpg
+img12: scorein150games.jpg
 img13: snodgrassPL.jpg
 img14: BALECL.jpg
 img15: uefasupercupposter.jpg
-img16: hamsiknumbers.jpg
-img17: carvalhostats.jpg
+img16: HERNANDEZMEXICO.jpg
 alt: image-alt
-project-date: January 2017 -
-client: Squawka
-category: Graphic Design
-description: Squawka's unique selling point is their football stats and one of the most important things was to create visualisations and graphics of these stats that both looked good and portrayed the statistic.
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
 
 ---
