@@ -12,7 +12,7 @@ img6: brazilMatchBoss.jpg
 img7: topmatchbossperformers.jpg
 img8: mullerMATCHBOSS.jpg
 img9: carvalhostats.jpg
-img10: morata-sky-sports.jpg
+img10: HazardSeason.jpg
 img11: dzeko-god.jpg
 img12: matthijs-de.jpg
 img13: top4motms.jpg
