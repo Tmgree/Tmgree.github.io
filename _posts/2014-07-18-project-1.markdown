@@ -9,7 +9,7 @@ img3: Lahm-Neuer.jpg
 img4: MESSI-MONA-LISA.jpg
 img5: Pep-Fraudiola.jpg
 img6: kean-farm.png
-img7: don-contract.jpg
+img7: DybalaForever.jpg
 img8: Szczesny-farewell.jpg
 img9: KOSQUOTE.jpg
 img10: AlliPremierLeague.jpg
