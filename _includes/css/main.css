@@ -4,6 +4,38 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+ .skillz {
+  top: 25px;
+  right: 25px;
+  width: 75px;
+  height: 75px;
+}
+
+.skillz-text {
+  font-size: 30px;
+}
+
+.stars {
+  width: 50px;
+  height: auto;
+}
+
+#starlist {
+  padding: 2cm 2.25cm 3cm 2.25cm;
+}
+
+#starlist {
+  color: yellow;
+}
+
+#starlist1 {
+  padding: 2cm 2.25cm 3cm 3.04cm;
+}
+
+#starlist1 {
+  color: yellow;
+}
+
 body {
     overflow-x: hidden;
 }
