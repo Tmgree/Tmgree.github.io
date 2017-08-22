@@ -17,7 +17,7 @@ img11: PulisicMatchBoss.jpg
 img12: ManCityUndefeated.jpg
 img13: arsenalwembley.jpg
 img14: hazardsanchez.jpg
-img15: azpilicueta-gk.jpg
+img15: GabrielJesusPrem.jpg
 img16: azpilicueta-gk.jpg
 img17: azpilicueta-gk.jpg
 alt: image-alt
