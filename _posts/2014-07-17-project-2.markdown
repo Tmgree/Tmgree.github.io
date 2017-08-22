@@ -14,7 +14,7 @@ img8: DavidSilvaMost.jpg
 img9: moratalastgames.jpg
 img10: ronaldo-career.jpg
 img11: Aubameyangallcomps.jpg
-img12: arsenalwembley.jpg
+img12: AgueroMostGoals.jpg
 img13: snodgrassPL.jpg
 img14: BALECL.jpg
 img15: uefasupercupposter.jpg
@@ -24,6 +24,6 @@ alt: image-alt
 project-date: January 2017 -
 client: Squawka
 category: Graphic Design
-description: Squawka are most well known for their football statistics and one of the most important things is to create visualisations and graphics of these stats that both looked good and portray the statistic. These graphics can range from a player's season by numbers to an interesting stat or milestone that a specific player has acomplished. 
+description: Squawka are most well known for their football statistics and one of the most important things is to create visualisations and graphics of these stats that both looked good and portray the statistic. These graphics can range from a player's season by numbers to an interesting stat or milestone that a specific player has acomplished.
 
 ---
