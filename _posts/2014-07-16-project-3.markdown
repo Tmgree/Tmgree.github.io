@@ -19,7 +19,7 @@ img13: arsenalwembley.jpg
 img14: hazardsanchez.jpg
 img15: GabrielJesusPrem.jpg
 img16: BaleConsecutive.jpg
-img17: azpilicueta-gk.jpg
+img17: christiansennumbers.jpg
 img18: onepx.jpg
 alt: image-alt
 project-date: August 2016 - May 2017
