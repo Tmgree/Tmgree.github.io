@@ -4,6 +4,10 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+ .caption-skill {
+   font-size: 19px;
+ }
+
  .list-skills li .progress {
     height: 20px;
     box-shadow: none;
