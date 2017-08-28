@@ -21,6 +21,7 @@ img15: azpilicueta-gk.jpg
 img16: RonaldoHeros.jpg
 img17: dembelebosz.jpg
 img18: PogbaBallonDor.jpg
+img19: dembelemessi.jpg
 alt: image-alt
 project-date: April 2014
 client: Squawka
