@@ -21,7 +21,7 @@ img15: uefasupercupposter.jpg
 img16: hamsiknumbers.jpg
 img17: tottivsjuventus.jpg
 img18: waynerooney10goals.jpg
-img19: onepx.jpg
+img19: TwoTwoPrem.jpg
 alt: image-alt
 project-date: January 2017 -
 client: Squawka
