@@ -28,8 +28,8 @@ client: Squawka
 category: Graphic Design
 description: One of the most important pieces of content at Squawka was the quotes as there are so many important quotes thrown about all the time. It was therefore very important to create regular visualisations of some of the best quotes.
 
-titlez: EA Sports
-image: "img/timeline/EASports.jpg"
+titlez: Squawka
+image: "img/timeline/Squawka.jpg"
 subtitle: aa
 
 ---

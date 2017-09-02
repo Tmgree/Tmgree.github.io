@@ -25,4 +25,10 @@ client: Squawka
 category: Advertising
 description: I was placed solely in charge of creating the entire advertising campaign for Squawka's betting website SquawkaBet. The campaign was completely designed by me and ran over all platforms including the website, Twitter and Facebook.
 
+titlez: Explore Learning
+image: "img/timeline/ExploreLearning.jpg"
+subtitle: Tutor
+
 ---
+I was a tutor at Explore Learning, which involves teaching children of all ages (specifically GCSE) in
+Mathematics and English.

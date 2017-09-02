@@ -28,4 +28,9 @@ client: Squawka
 category: Advertising and Graphic Design
 description: I was solely placed in charge of creating the graphics and advertising campaign for Squawka's Fantasy Football style game - MatchBoss. The MatchBoss graphics are focused around MatchBoss points, which are the scoring system for the game and are earned through a player's contribution during a game.
 
+titlez: Fantasy League
+image: "img/timeline/FantasyLeague.jpg"
+subtitle: aa
+
 ---
+Vix ne omnesque interpretaris, per ut menandri tincidunt conclusionemque. Sit te simul clita, et vis dicant probatus honestatis
