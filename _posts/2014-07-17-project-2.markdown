@@ -31,6 +31,7 @@ description: Squawka are most well known for their football statistics and one o
 titlez: EA Sports
 image: "img/timeline/EASports2.jpg"
 subtitle: Fifa Talent Scout
+datez: October 2016 - present
 
 ---
 I help determine how players and teams rate and play in FIFA by researching, reviewing, and editing teams and players.

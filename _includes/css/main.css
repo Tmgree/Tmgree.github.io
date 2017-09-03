@@ -3,7 +3,14 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
- 
+
+ .datez {
+   font-style: italic;
+   font-weight: lighter;
+   font-size: 13px;
+   color: #d3d3d3;
+ }
+
  .timeline {
      position: relative;
      padding: 0;

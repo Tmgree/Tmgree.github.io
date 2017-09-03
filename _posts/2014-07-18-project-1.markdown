@@ -31,6 +31,7 @@ description: One of the most important pieces of content at Squawka was the quot
 titlez: Squawka
 image: "img/timeline/Squawka.jpg"
 subtitle: aa
+datez: May 2016 - present
 
 ---
 Vix ne omnesque interpretaris, per ut menandri tincidunt conclusionemque. Sit te simul clita, et vis dicant probatus honestatis

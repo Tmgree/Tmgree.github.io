@@ -31,6 +31,7 @@ description: I was solely placed in charge of creating the graphics and advertis
 titlez: Fantasy League
 image: "img/timeline/FantasyLeague.jpg"
 subtitle: aa
+datez: August 2016 - present
 
 ---
 Vix ne omnesque interpretaris, per ut menandri tincidunt conclusionemque. Sit te simul clita, et vis dicant probatus honestatis

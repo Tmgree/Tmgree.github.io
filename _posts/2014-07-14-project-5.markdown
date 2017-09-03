@@ -12,6 +12,7 @@ description: Use this area of the page to describe your project. The icon above 
 titlez: Makers Academy
 image: "img/timeline/MakersAcademy.jpg"
 subtitle: Tutor
+datez: October 2015 - February 2016
 
 ---
 Vix ne omnesque interpretaris, per ut menandri tincidunt conclusionemque. Sit te simul clita, et vis dicant probatus honestatis
