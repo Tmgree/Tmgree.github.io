@@ -12,6 +12,7 @@ description: Use this area of the page to describe your project. The icon above 
 titlez: Makers Academy
 image: "img/timeline/MakersAcademy.jpg"
 subtitle: Student
+datez: October 2015 - February 2016
 
 ---
 A very intense coding course that helped me to develop and extended my coding skills using the
