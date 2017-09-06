@@ -13,9 +13,9 @@ img7: LEICESTERLIVERPOOL.jpg
 img8: MANUTOP4.jpg
 img9: brightonnewcastle.jpg
 img10: TopGoalScorerBet.jpg
-img11: full_time_devils-lw.jpg
+img11: costasquawkabet.jpg
 img12: ArsenalFR.jpg
-img13: PLAYZOOLACHEMANU.jpg
+img13: full_time_devils-lw.jpg
 img14: hazardsanchez.jpg
 img15: azpilicueta-gk.jpg
 img16: azpilicueta-gk.jpg
