@@ -5,13 +5,13 @@ modal-id: 2
 date: 2014-07-17
 img: cake.png
 img2: MertensSerieA.jpg
-img3: BBCvBBC.jpg
+img3: TwoTwoPrem.jpg
 img4: DEMBELE-PASSES.jpg
 img5: danialvescupfinals.jpg
-img6: West-Ham-expensive.jpg
+img6: tottivsjuventus.jpg
 img7: lacazette-arsenal.jpg
 img8: DavidSilvaMost.jpg
-img9: moratalastgames.jpg
+img9: waynerooney10goals.jpg
 img10: ronaldo-career.jpg
 img11: Aubameyangallcomps.jpg
 img12: AgueroMostGoals.jpg
@@ -19,9 +19,9 @@ img13: snodgrassPL.jpg
 img14: BALECL.jpg
 img15: uefasupercupposter.jpg
 img16: hamsiknumbers.jpg
-img17: tottivsjuventus.jpg
-img18: waynerooney10goals.jpg
-img19: TwoTwoPrem.jpg
+img17: West-Ham-expensive.jpg
+img18: moratalastgames.jpg
+img19: BBCvBBC.jpg
 img20: koscielny-OTD.jpg
 alt: image-alt
 project-date: January 2017 -
