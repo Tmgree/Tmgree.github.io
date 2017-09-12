@@ -22,6 +22,7 @@ img16: BaleConsecutive.jpg
 img17: christiansennumbers.jpg
 img18: Unitedforwardline.jpg
 img19: mostinaugust.jpg
+img20: mostinaugust.jpg
 alt: image-alt
 project-date: August 2016 - May 2017
 client: Squawka

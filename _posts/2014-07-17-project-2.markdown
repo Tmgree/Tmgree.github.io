@@ -4,10 +4,10 @@ title: Squawka Stat Graphics
 modal-id: 2
 date: 2014-07-17
 img: cake.png
-img2: danialvescupfinals.jpg
+img2: MertensSerieA.jpg
 img3: BBCvBBC.jpg
 img4: DEMBELE-PASSES.jpg
-img5: koscielny-OTD.jpg
+img5: danialvescupfinals.jpg
 img6: West-Ham-expensive.jpg
 img7: lacazette-arsenal.jpg
 img8: DavidSilvaMost.jpg
@@ -22,6 +22,7 @@ img16: hamsiknumbers.jpg
 img17: tottivsjuventus.jpg
 img18: waynerooney10goals.jpg
 img19: TwoTwoPrem.jpg
+img20: koscielny-OTD.jpg
 alt: image-alt
 project-date: January 2017 -
 client: Squawka
