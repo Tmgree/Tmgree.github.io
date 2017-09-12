@@ -1,10 +1,11 @@
 ---
 layout: default
+title: Events & Milestones
 modal-id: 5
 date: 2014-07-14
 img: safe.png
-img2: onepx.jpg
-img3: onepx.jpg
+img2: BRAZILCONSECUTIVE.jpg
+img3: zanettibirthday.jpg
 img4: onepx.jpg
 img5: onepx.jpg
 img6: onepx.jpg
@@ -22,7 +23,7 @@ img17: onepx.jpg
 img18: onepx.jpg
 img19: onepx.jpg
 alt: image-alt
-project-date: 
+project-date:
 client: Coming Soon...
 category:
 description:
