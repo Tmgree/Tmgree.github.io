@@ -8,7 +8,7 @@ img2: BRAZILCONSECUTIVE.jpg
 img3: zanettibirthday.jpg
 img4: coutinholiverpool.jpg
 img5: lacazette-arsenal.jpg
-img6: onepx.jpg
+img6: Mourinho2Teams.jpg
 img7: onepx.jpg
 img8: onepx.jpg
 img9: onepx.jpg
