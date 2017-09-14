@@ -4,12 +4,12 @@ title: Squawka Stat Graphics
 modal-id: 2
 date: 2014-07-17
 img: cake.png
-img2: MertensSerieA.jpg
-img3: TwoTwoPrem.jpg
-img4: DEMBELE-PASSES.jpg
+img2: GabrielJesus.jpg
+img3: MertensSerieA.jpg
+img4: TwoTwoPrem.jpg
 img5: danialvescupfinals.jpg
 img6: tottivsjuventus.jpg
-img7: GabrielJesus.jpg
+img7: DEMBELE-PASSES.jpg
 img8: DavidSilvaMost.jpg
 img9: waynerooney10goals.jpg
 img10: ronaldo-career.jpg
