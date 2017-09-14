@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Events & Milestones
+title: Project 6
 modal-id: 5
 date: 2014-07-14
 img: safe.png
-img2: BRAZILCONSECUTIVE.jpg
-img3: zanettibirthday.jpg
-img4: coutinholiverpool.jpg
-img5: lacazette-arsenal.jpg
+img2: onepx.jpg
+img3: onepx.jpg
+img4: onepx.jpg
+img5: onepx.jpg
 img6: onepx.jpg
 img7: onepx.jpg
 img8: onepx.jpg

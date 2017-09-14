@@ -1,12 +1,13 @@
 ---
 layout: default
+title: Events & Milestones
 modal-id: 6
 date: 2014-07-15
 img: submarine.png
-img2: onepx.jpg
-img3: onepx.jpg
-img4: onepx.jpg
-img5: onepx.jpg
+img2: BRAZILCONSECUTIVE.jpg
+img3: zanettibirthday.jpg
+img4: coutinholiverpool.jpg
+img5: lacazette-arsenal.jpg
 img6: onepx.jpg
 img7: onepx.jpg
 img8: onepx.jpg
@@ -22,7 +23,7 @@ img17: onepx.jpg
 img18: onepx.jpg
 img19: onepx.jpg
 alt: image-alt
-project-date: 
+project-date:
 client: Coming Soon...
 category:
 description:
