@@ -9,7 +9,7 @@ img3: TwoTwoPrem.jpg
 img4: DEMBELE-PASSES.jpg
 img5: danialvescupfinals.jpg
 img6: tottivsjuventus.jpg
-img7: lacazette-arsenal.jpg
+img7: GabrielJesus.jpg
 img8: DavidSilvaMost.jpg
 img9: waynerooney10goals.jpg
 img10: ronaldo-career.jpg
