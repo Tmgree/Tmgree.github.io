@@ -17,7 +17,7 @@ img11: costasquawkabet.jpg
 img12: ArsenalFR.jpg
 img13: full_time_devils-lw.jpg
 img14: championsleaguetopscorer.jpg
-img15: azpilicueta-gk.jpg
+img15: ChampionsLeagueSquawkaBet.jpg
 img16: azpilicueta-gk.jpg
 alt: image-alt
 project-date: April 2014
