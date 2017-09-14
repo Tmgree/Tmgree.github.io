@@ -16,7 +16,7 @@ img10: ronaldo-career.jpg
 img11: Aubameyangallcomps.jpg
 img12: AgueroMostGoals.jpg
 img13: snodgrassPL.jpg
-img14: BALECL.jpg
+img14: AtleticoGriezmann.jpg
 img15: uefasupercupposter.jpg
 img16: hamsiknumbers.jpg
 img17: West-Ham-expensive.jpg
