@@ -10,7 +10,7 @@ img4: coutinholiverpool.jpg
 img5: lacazette-arsenal.jpg
 img6: Mourinho2Teams.jpg
 img7: BALECL.jpg
-img8: onepx.jpg
+img8: uefasupercupposter.jpg
 img9: onepx.jpg
 img10: onepx.jpg
 img11: onepx.jpg
