@@ -19,7 +19,7 @@ img13: snodgrassPL.jpg
 img14: DEMBELE-PASSES.jpg
 img15: Ibra150.jpg
 img16: hamsiknumbers.jpg
-img17: West-Ham-expensive.jpg
+img17: christiensen.jpg
 img18: moratalastgames.jpg
 img19: BBCvBBC.jpg
 img20: koscielny-OTD.jpg
