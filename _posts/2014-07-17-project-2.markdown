@@ -20,7 +20,7 @@ img14: DEMBELE-PASSES.jpg
 img15: Ibra150.jpg
 img16: hamsiknumbers.jpg
 img17: christiensen.jpg
-img18: moratalastgames.jpg
+img18: falcaouefa.jpg
 img19: BBCvBBC.jpg
 img20: koscielny-OTD.jpg
 alt: image-alt
