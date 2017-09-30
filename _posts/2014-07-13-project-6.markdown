@@ -14,7 +14,7 @@ img8: uefasupercupposter.jpg
 img9: RonaldoBackToBack.jpg
 img10: West-Ham-expensive.jpg
 img11: moratalastgames.jpg
-img12: onepx.jpg
+img12: CommonGoal.jpg
 img13: onepx.jpg
 img14: onepx.jpg
 img15: onepx.jpg
