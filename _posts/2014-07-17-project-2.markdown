@@ -22,7 +22,7 @@ img16: hamsiknumbers.jpg
 img17: christiensen.jpg
 img18: falcaouefa.jpg
 img19: BBCvBBC.jpg
-img20: koscielny-OTD.jpg
+img20: lewandowski.jpg
 alt: image-alt
 project-date: January 2017 -
 client: Squawka

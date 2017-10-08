@@ -5,7 +5,7 @@ modal-id: 1
 date: 2014-07-18
 img: cabin.png
 img2: Messi-Stoke.jpg
-img3: Lahm-Neuer.jpg
+img3: swedenlux.jpg
 img4: MESSI-MONA-LISA.jpg
 img5: Pep-Fraudiola.jpg
 img6: kean-farm.png
@@ -19,7 +19,7 @@ img13: VidalKimmich.jpg
 img14: Mourinhoginger.jpg
 img15: azpilicueta-gk.jpg
 img16: RonaldoHeros.jpg
-img17: dembelebosz.jpg
+img17: Lahm-Neuer.jpg
 img18: PogbaBallonDor.jpg
 img19: dembelemessi.jpg
 img20: MourinhoHumble.jpg
