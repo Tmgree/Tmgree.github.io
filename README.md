@@ -1,6 +1,6 @@
 # tmgree.github.io
 
-Uncompiled [Jekyll](//jekyllrb.com) source code for [giamir.com](//tmgree.github.io).
+Uncompiled [Jekyll](//jekyllrb.com) source code for [tmgree.com](//tmgree.github.io).
 
 ### Steps to use
 
