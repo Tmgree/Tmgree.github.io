@@ -1,22 +1,22 @@
 ---
 layout: default
-title: Project 6
+title: Feature Graphics
 modal-id: 5
 date: 2014-07-14
 img: safe.png
-img2: onepx.jpg
-img3: onepx.jpg
-img4: onepx.jpg
-img5: onepx.jpg
-img6: onepx.jpg
-img7: onepx.jpg
-img8: onepx.jpg
-img9: onepx.jpg
-img10: onepx.jpg
-img11: onepx.jpg
-img12: onepx.jpg
-img13: onepx.jpg
-img14: onepx.jpg
+img2: 8fifaratings.jpg
+img3: 13reasonswhy.jpg
+img4: BayernPoach.jpg
+img5: boszexplained.jpg
+img6: englandflair.jpg
+img7: fantasyfootballtips.jpg
+img8: fifaproquiz.jpg
+img9: hudderfieldseason.jpg
+img10: QUIZEVERYMINUTE.jpg
+img11: MoutinhoFWMF.jpg
+img12: QuizBW.jpg
+img13: signswerve.jpg
+img14: wcpLiverpool.jpg
 img15: onepx.jpg
 img16: onepx.jpg
 img17: onepx.jpg
