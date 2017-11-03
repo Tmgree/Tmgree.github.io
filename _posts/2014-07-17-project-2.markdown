@@ -10,7 +10,7 @@ img4: TwoTwoPrem.jpg
 img5: danialvescupfinals.jpg
 img6: tottivsjuventus.jpg
 img7: AtleticoGriezmann.jpg
-img8: DavidSilvaMost.jpg
+img8: RonaldoFaceOff.jpg
 img9: waynerooney10goals.jpg
 img10: ronaldo-career.jpg
 img11: Aubameyangallcomps.jpg
@@ -21,7 +21,7 @@ img15: Ibra150.jpg
 img16: hamsiknumbers.jpg
 img17: christiensen.jpg
 img18: falcaouefa.jpg
-img19: BBCvBBC.jpg
+img19: DavidSilvaMost.jpg
 img20: lewandowski.jpg
 alt: image-alt
 project-date: January 2017 -
