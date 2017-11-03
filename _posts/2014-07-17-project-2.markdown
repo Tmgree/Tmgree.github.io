@@ -6,7 +6,7 @@ date: 2014-07-17
 img: cake.png
 img2: GabrielJesus.jpg
 img3: MertensSerieA.jpg
-img4: TwoTwoPrem.jpg
+img4: Ronaldo50awaygoals.jpg
 img5: falcaouefa.jpg
 img6: tottivsjuventus.jpg
 img7: AtleticoGriezmann.jpg
@@ -15,7 +15,7 @@ img9: waynerooney10goals.jpg
 img10: ronaldo-career.jpg
 img11: Aubameyangallcomps.jpg
 img12: AgueroMostGoals.jpg
-img13: Ronaldo50awaygoals.jpg
+img13: TwoTwoPrem.jpg
 img14: DEMBELE-PASSES.jpg
 img15: Ibra150.jpg
 img16: hamsiknumbers.jpg
