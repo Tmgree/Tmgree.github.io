@@ -7,7 +7,7 @@ img: cake.png
 img2: GabrielJesus.jpg
 img3: MertensSerieA.jpg
 img4: TwoTwoPrem.jpg
-img5: danialvescupfinals.jpg
+img5: falcaouefa.jpg
 img6: tottivsjuventus.jpg
 img7: AtleticoGriezmann.jpg
 img8: RonaldoFaceOff.jpg
@@ -20,7 +20,7 @@ img14: DEMBELE-PASSES.jpg
 img15: Ibra150.jpg
 img16: hamsiknumbers.jpg
 img17: christiensen.jpg
-img18: falcaouefa.jpg
+img18: danialvescupfinals.jpg
 img19: DavidSilvaMost.jpg
 img20: lewandowski.jpg
 alt: image-alt
