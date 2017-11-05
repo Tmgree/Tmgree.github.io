@@ -3,7 +3,7 @@ layout: default
 title: Squawka Quote Graphics
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: QuoteGraphics.jpg
 img2: Messi-Stoke.jpg
 img3: swedenlux.jpg
 img4: MESSI-MONA-LISA.jpg
