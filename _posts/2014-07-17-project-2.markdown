@@ -3,7 +3,7 @@ layout: default
 title: Squawka Stat Graphics
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: StatGraphics.png
 img2: GabrielJesus.jpg
 img3: MertensSerieA.jpg
 img4: Ronaldo50awaygoals.jpg
