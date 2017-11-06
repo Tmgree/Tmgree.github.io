@@ -3,7 +3,7 @@ layout: default
 title: Events & Milestones
 modal-id: 6
 date: 2014-07-15
-img: submarine.png
+img: MilestonesThumbnail.jpg
 img2: BRAZILCONSECUTIVE.jpg
 img3: zanettibirthday.jpg
 img4: coutinholiverpool.jpg

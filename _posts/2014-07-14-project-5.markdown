@@ -3,7 +3,7 @@ layout: default
 title: Feature Graphics
 modal-id: 5
 date: 2014-07-14
-img: MilestonesThumbnail.jpg
+img: submarine.png
 img2: 8fifaratings.jpg
 img3: 13reasonswhy.jpg
 img4: BayernPoach.jpg
