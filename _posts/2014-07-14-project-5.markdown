@@ -18,7 +18,7 @@ img12: QuizBW.jpg
 img13: signswerve.jpg
 img14: wcpLiverpool.jpg
 img15: weaklinksspurs.jpg
-img16: onepx.jpg
+img16: pulisic.mp4
 img17: onepx.jpg
 img18: onepx.jpg
 img19: onepx.jpg
