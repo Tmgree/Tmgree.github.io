@@ -8,11 +8,11 @@ img2: aubabundesligagoals.jpg
 img3: aubaarsneal.png
 img4: giroudchelsea.png
 img5: giroudheaders.png
-img6: brazilMatchBoss.jpg
-img7: topmatchbossperformers.jpg
-img8: mullerMATCHBOSS.jpg
-img9: carvalhostats.jpg
-img10: HazardSeason.jpg
+img6: mascherano.png
+img7: bendtnergoal.jpg
+img8: mourinho100.png
+img9: tonikroos.png
+img10: griezmanngoals.png
 img11: PulisicMatchBoss.jpg
 img12: ManCityUndefeated.jpg
 img13: snodgrassPL.jpg
