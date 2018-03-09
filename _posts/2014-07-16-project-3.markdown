@@ -4,10 +4,10 @@ title: MatchBoss
 modal-id: 3
 date: 2014-07-16
 img: MatchBossThumbnail.jpg
-img2: HazardMatchBoss.jpg
-img3: xhaka_passes.jpg
-img4: POGBAMATCHBOSS.jpg
-img5: LUKAKUMATCHBOSS.jpg
+img2: aubabundesligagoals.jpg
+img3: aubaarsneal.png
+img4: giroudchelsea.png
+img5: giroudheaders.png
 img6: brazilMatchBoss.jpg
 img7: topmatchbossperformers.jpg
 img8: mullerMATCHBOSS.jpg
