@@ -6,7 +6,7 @@ date: 2014-07-17
 img: StatGraphics.jpg
 img2: messirecord.jpg
 img3: otamendipasses.png
-img4: Ronaldo50awaygoals.jpg
+img4: ramsey100.png
 img5: falcaouefa.jpg
 img6: debruyneassists.jpg
 img7: GabrielJesus.jpg
@@ -18,9 +18,9 @@ img12: AgueroMostGoals.jpg
 img13: TwoTwoPrem.jpg
 img14: ozil100.png
 img15: Ibra150.jpg
-img16: hamsiknumbers.jpg
+img16: reusbvb.png
 img17: christiensen.jpg
-img18: danialvescupfinals.jpg
+img18: Ronaldo50awaygoals.jpg
 img19: DavidSilvaMost.jpg
 img20: lewandowski.jpg
 alt: image-alt
