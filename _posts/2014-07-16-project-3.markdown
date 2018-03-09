@@ -13,11 +13,11 @@ img7: bendtnergoal.jpg
 img8: mourinho100.png
 img9: tonikroos.png
 img10: griezmanngoals.png
-img11: PulisicMatchBoss.jpg
+img11: worldcup100.png
 img12: ManCityUndefeated.jpg
-img13: snodgrassPL.jpg
+img13: gundoganrecordholder.png
 img14: alliyoungest.jpg
-img15: GabrielJesusPrem.jpg
+img15: mbappeyoungest.png
 img16: BaleConsecutive.jpg
 img17: christiansennumbers.jpg
 img18: Unitedforwardline.jpg
