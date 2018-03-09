@@ -14,12 +14,12 @@ img8: RonaldoFaceOff.jpg
 img9: costapotm.png
 img10: alexissanchez2.jpg
 img11: tottivsjuventus.jpg
-img12: AgueroMostGoals.jpg
+img12: kane100.jpg
 img13: TwoTwoPrem.jpg
 img14: ozil100.png
-img15: Ibra150.jpg
+img15: aubabvb.jpg
 img16: reusbvb.png
-img17: christiensen.jpg
+img17: aubabundesligagoals.jpg
 img18: Ronaldo50awaygoals.jpg
 img19: DavidSilvaMost.jpg
 img20: lewandowski.jpg
