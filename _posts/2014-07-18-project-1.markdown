@@ -6,7 +6,7 @@ date: 2014-07-18
 img: QuoteGraphics.jpg
 img2: Messi-Stoke.jpg
 img3: swedenlux.jpg
-img4: coutinhobarcelonaquote.jpg
+img4: walcottquidditch.jpg
 img5: ozilbigger.jpg
 img6: kean-farm.png
 img7: DybalaForever.jpg
@@ -20,7 +20,7 @@ img14: Mourinhoginger.jpg
 img15: MESSI-MONA-LISA.jpg
 img16: RonaldoHeros.jpg
 img17: matthijs-de.jpg
-img18: PogbaBallonDor.jpg
+img18: martialmourinho.jpg
 img19: KOSQUOTE.jpg
 img20: MourinhoHumble.jpg
 alt: image-alt
